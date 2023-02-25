@@ -159,11 +159,12 @@ section {
 
 @media (min-width: 1800px) {
     h1 {
-        font-size: 450%;
+        font-size: 400%;
+        margin-top: 0;
     }
 
     h3 {
-        font-size: 170%;
+        font-size: 130%;
     }
 
     .text {
